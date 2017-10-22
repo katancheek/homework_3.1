@@ -1,0 +1,68 @@
+body {
+	font: Roboto;
+	color: #222222;
+}
+
+h1 {
+	font-size: 32px;
+	font-variant: small-caps;
+	font-weight: 400;
+	text-align: center;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 500;
+}
+
+h3 {
+	font-size: 21px;
+	font-weight: 600;
+}
+
+h4 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+#soderzhanie {
+	background-color: #eeeeee;
+	width: 250px;
+	padding: 15px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 1px;
+	border-color: #dddddd;
+	border-radius: 3px;
+}
+
+p {
+	text-align: justify;
+}
+
+img {
+	background-color: #eeeeee;
+	width: 250px;
+	padding: 15px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 1px;
+	border-color: #dddddd;
+	border-radius: 3px;
+}
+a {
+	color: #0088ff;
+	text-decoration: none;
+}
+
+blockquote {
+	padding: 15px;
+	background-color: #eeeeee;
+	border-color: #dddddd;
+	border-radius: 3px;
+	font-style: italic;
+}
